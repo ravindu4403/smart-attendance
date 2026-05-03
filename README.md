@@ -1,50 +1,33 @@
-# Smart Attendance System (HND Final Project)
+# Smart Attendance System
 
-Next.js + MySQL web application for student attendance and performance management.
+A smart attendance management system developed to manage student or employee attendance records with a clean, responsive, and easy-to-use interface.
 
-## ✅ Features
-- **JWT Auth + Role Based Access** (admin / lecturer / student)
-- **Admin Panel**
-  - Manage **Users** (Lecturer / Student)
-  - Manage **Batches**
-  - Manage **Subjects**
-  - Manage **Lecturer Assignments** (Lecturer ↔ Batch ↔ Subject)
-- **Lecturer Panel**
-  - Create / Enroll **Students** into their batches
-- **Attendance** marking by **Date + Batch + Subject** (bulk save)
-- **Marks** management by **Batch + Subject + Student**
-- **Reports** (monthly) with **CSV download**
-- **Student Dashboard** with Chart.js (attendance + marks)
+## Live Demo
 
-## 🧪 Demo Accounts (Password: `123456`)
-- Admin: `admin@test.com`
-- Lecturer: `lecturer@test.com`
-- Student: `student1@test.com`
+https://smart-attendance-mx9dm4k84-ravindu4403s-projects.vercel.app
 
-## 🗄️ Setup (MySQL)
-1) Create a database (example: `smart_attendance`)
-2) Import the schema:
-- `schema.sql`
+## Features
 
-## ⚙️ Env
-Create `.env.local`:
-```
-DB_HOST=localhost
-DB_USER=root
-DB_PASS=
-DB_NAME=smart_attendance
-JWT_SECRET=your_secret_key
-```
+- Attendance management interface
+- Clean dashboard-style layout
+- Responsive frontend design
+- User-friendly navigation
+- Simple and practical attendance workflow
+- Deployed with Vercel
 
-## ▶️ Install & Run
-```
-npm install
-npm run dev
-```
+## Tech Stack
 
-Open: `http://localhost:3000`
+- React
+- JavaScript
+- HTML
+- CSS
+- Vercel
 
-## 🔐 Role Rules
-- **Admin**: `/dashboard`, `/attendance`, `/marks`, `/reports`, `/admin/*`
-- **Lecturer**: `/dashboard`, `/attendance`, `/marks`, `/reports`, `/lecturer/students`
-- **Student**: `/dashboard`, `/student`
+## Developer
+
+**Ravindu Ashan**  
+Associate Software Engineer | Full-Stack Developer
+
+- GitHub: https://github.com/ravindu4403
+- LinkedIn: https://www.linkedin.com/in/ravindu-ashan-3b77b61b3
+- Email: ravinduashan66@gmail.com
