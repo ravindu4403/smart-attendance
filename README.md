@@ -1,33 +1,52 @@
 # Smart Attendance System
 
-A smart attendance management system developed to manage student or employee attendance records with a clean, responsive, and easy-to-use interface.
+A smart attendance management system developed to track and manage attendance records using a modern web-based interface.
 
-## Live Demo
+## 🌐 Live Demo
 
-https://smart-attendance-mx9dm4k84-ravindu4403s-projects.vercel.app
+https://smart-attendance-mx9dm4k84-ravindu4403s-projects.vercel.app/
 
-## Features
+## 📌 Overview
 
-- Attendance management interface
-- Clean dashboard-style layout
-- Responsive frontend design
-- User-friendly navigation
-- Simple and practical attendance workflow
-- Deployed with Vercel
+Smart Attendance System is a web-based project developed to simplify attendance tracking and attendance record management.
 
-## Tech Stack
+The main goal of this project is to provide a digital solution for managing attendance instead of using manual paper-based methods.  
+This project helped me improve my practical experience in web application development, dashboard UI design, and attendance management workflows.
+
+## ✨ Main Features
+
+- Smart attendance tracking interface
+- Attendance record management
+- Modern dashboard-style layout
+- Student/user-focused workflow
+- Responsive web design
+- Clean navigation structure
+- Live deployment using Vercel
+- Portfolio-ready project showcase
+
+## 🛠️ Technologies Used
 
 - React
 - JavaScript
 - HTML
 - CSS
+- Git
+- GitHub
 - Vercel
 
-## Developer
+## 👨‍💻 My Role / Contribution
 
-**Ravindu Ashan**  
-Associate Software Engineer | Full-Stack Developer
+- Designed and developed the frontend structure
+- Created attendance-related user interface sections
+- Built responsive pages for desktop and mobile screens
+- Organized project files and assets
+- Connected the project with GitHub
+- Deployed the project using Vercel
+- Added the project to my professional portfolio
 
-- GitHub: https://github.com/ravindu4403
-- LinkedIn: https://www.linkedin.com/in/ravindu-ashan-3b77b61b3
-- Email: ravinduashan66@gmail.com
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/ravindu4403/smart-attendance-system.git
